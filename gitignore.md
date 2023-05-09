@@ -1,4 +1,5 @@
 ## Gitignore
+![](/photo/png-clipart-stop-sign-traffic-sign-stop-sign-art-text-logo.png)
 ---
 Git работает по следующему принципу: вы размещаете файлы в проекте с помощью команды `git add`, а затем фиксируете (коммитите) их с помощью команды `git commit`.
 

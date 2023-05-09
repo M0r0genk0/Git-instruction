@@ -1,4 +1,5 @@
 ## Команды для работы с репозиторием
+![](/photo/png-transparent-cloud-computing-cloud-storage-microsoft-azure-computer-cloud-computing-blue-computer-network-cloud.png)
 ---
 1.  `git init`- создает пустой репозиторий.
 
